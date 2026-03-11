@@ -76,13 +76,16 @@ The analysis uses the following datasets:
 - Average Seller Processing Time: **50.78 hours**
 - Late Processing Rate: **18.44%**
 - Fastest Seller Processing: **3.67 hours**
-- Slowest Seller Processing: **234.67 hours**
+- Slowest Seller Processing: **234.67 hours(~9.7 days)**
+- Late Seller Rate: **58.19%**
 
 ### Insights
 
-- Nearly **1 in 5 orders** are processed later than the expected SLA.
-- Some sellers consistently show delayed processing, creating operational delays.
-- High-volume sellers may require operational support to handle order loads.
+- Nearly **1 in 5 orders** are processed later than the expected SLA(Considered 48hrs).
+- A majority of shops (1,882 vs 1,352) process orders late,suggesting systemic operational issues rather than isolated cases.
+- Some sellers (10+) consistently show extreme delays (7–9 days), significantly affecting overall platform performance.
+- High-volume sellers do not necessarily process orders slower; low-volume sellers often contribute disproportionately to delays.
+- Efficient processing practices exist: some sellers manage high order volumes with extremely low late rates, indicating operational best practices can be replicated.
 
 ---
 
