@@ -119,15 +119,22 @@ Hub performance varies significantly.
 ### Key Metrics
 
 - Total Riders: **116**
-- Total Deliveries: **155K**
-- Rider Success Rate: **90.76%**
+- Total Deliveries(Packages): **155K**
+- Rider Success Rate(Package): **90.76%**
+- Average Deliveries per Rider: **960.34**
+- Failed Deliveries: **~14K**
 - Average Delivery Time: **55.41 hours**
 
 ### Insights
 
-- Delivery performance varies significantly across riders.
-- A small number of riders handle a very large portion of deliveries.
-- Some riders show low success rates, indicating training or route issues.
+- Delivery performance varies significantly across individual riders, highlighting inconsistencies in last-mile operations.
+- A small group of riders handles a disproportionately large number of deliveries, suggesting uneven workload distribution and potential operational risk.
+- Some riders demonstrate low delivery success rates (~79–86%), indicating potential challenges in routes, operational inefficiencies, or performance issues.
+- Top-performing riders achieve very low average delivery times (~5–6 hours), showing that faster last-mile delivery is achievable with optimized routing.
+- Geographic factors influence performance, as delivery activity is concentrated in major regions (e.g., Dhaka), while less-dense areas may face slower deliveries.
+- Performance segmentation identifies clear groups of Average and Low Performers, providing targeted opportunities for training and operational improvement.
+- Operational inefficiencies, such as 14K failed deliveries and high average delivery time, indicate that workload management and route optimization could further improve overall delivery efficiency.
+- Rider success and speed are not always correlated—some riders achieve high success rates but take longer per delivery, highlighting potential for efficiency gains through process standardization.
 
 ---
 
