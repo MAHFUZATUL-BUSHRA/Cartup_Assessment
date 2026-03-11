@@ -38,6 +38,8 @@ The analysis uses the following datasets:
 **campaigndays** – promotional campaign records  
 **orderjourneydata** – order lifecycle and operational timestamps
 
+# Data Architecture & Modeling
+![P](https://github.com/MAHFUZATUL-BUSHRA/Cartup_Assessment/blob/main/Images/Schema.png)
 ---
 
 # Dashboard Pages
