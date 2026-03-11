@@ -95,11 +95,12 @@ The analysis uses the following datasets:
 
 ### Insights
 
-- Several operational stages show extended processing times.
-- Delays occur in:
-  - Pending → RTS
-  - RTS → Warehouse
-  - Sorting → Last Mile
+- Rider Assignment is the Major Bottleneck:Rider assignment to delivery stage takes  **~55.41 hours**, contributing the largest share of total delivery time.
+- Mid-Pipeline Stages Cause Noticeable Delays:Pending → **RTS (~20.08 hrs) and RTS → FM (~16.61 hrs)** highlight internal operational inefficiencies.
+- Sorting and Hub Operations Are Efficient:Delays from **Sorting → Last Mile (~5.55 hrs) and FM → Sorting (~2.55 hrs)** are minor, indicating well-functioning warehouse operations.
+- Regional Delivery Performance Varies:Urban hubs like Dhaka North/South show high success **(~92%)** and shorter delivery times, while other regions experience longer delays.
+- Certain Source Hubs Contribute to Delays:CB Hub **(~133 hrs)** and some 3PL hubs **(~113 hrs)** significantly slow down processing, whereas hubs like Uttara/Jatrabari are more efficient.
+- Order Pipeline Drop Indicates Operational Failures:**~10%** of orders do not reach delivery due to cancellations or operational issues, showing room for improvement in fulfillment reliability.**• Total Orders: 124,515 • Sorted Orders: 123,300 • Last Mile Orders: 123,300 • Delivered Orders: 111,400**
 
 Hub performance varies significantly.
 
