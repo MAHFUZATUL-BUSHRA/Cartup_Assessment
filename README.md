@@ -60,9 +60,11 @@ The analysis uses the following datasets:
 ### Insights
 
 - Delivery success rate is strong at nearly **90%**, indicating stable logistics performance.
-- Order demand is highly concentrated in **Dhaka South, Gazipur, Chattogram, and Sylhet**.
-- Male customers contribute **~60% of total orders**, showing higher purchasing activity.
-
+- Order demand is highly concentrated in **Dhaka, Gazipur, Chattogram, and Sylhet**, highlighting key urban markets.
+- Male customers contribute **~60%** of total orders, showing higher purchasing activity.
+- A small group of top customers places disproportionately more orders, emphasizing the importance of customer retention.
+- Order volume spikes in **November–December**, suggesting seasonal demand or promotional opportunities.
+- Several states show low order activity, presenting opportunities for geographic expansion and targeted marketing.
 ---
 
 # 2️⃣ Seller Order Processing Performance
