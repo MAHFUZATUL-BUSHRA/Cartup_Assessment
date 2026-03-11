@@ -33,7 +33,7 @@ The analysis uses the following datasets:
 
 **dimcustomers** – customer demographics and location  
 **dimshops** – seller information  
-**dimproducts** – product price, category, and cost data  
+**dimproducts** – products details  
 **dimriders** – delivery rider information  
 **campaigndays** – promotional campaign records  
 **orderjourneydata** – order lifecycle and operational timestamps
