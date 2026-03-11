@@ -1,4 +1,4 @@
-# Cartup Business Intelligence Case Study
+# # <img src="Images/cartup_bangladesh_logo.jpg" width="40"/> Cartup Business Intelligence Case Study
 ### Business Intelligence Assessment
 
 This project presents a Business Intelligence analysis conducted for Cartup, an e-commerce company that connects customers with sellers while managing warehouse and delivery operations.
