@@ -181,6 +181,8 @@ Hub performance varies significantly.
 - Top Seller Revenue Share: **20.67%**
 - Top Product RevenueShare: **1.71%**
 
+![Product Seller Revenue Contribution Dashboard](https://github.com/MAHFUZATUL-BUSHRA/Cartup_Assessment/blob/main/Dashboard_Images/Question%205_.png)
+
 ### Insights
 
 - FMCG and Electronics dominate revenue: FMCG drives high order volume; electronics deliver high revenue per order.
@@ -192,11 +194,6 @@ Hub performance varies significantly.
 - Operational efficiency supports commercial success: High delivery success rates (~90%+) from top sellers reinforce reliable performance.
 - Category-wise strategy matters: FMCG = high volume; Electronics = high value; Fashion & Lifestyle = moderate/niche demand.
 - Investment in high-demand product categories results in strong profit returns.
-  
-![Product Seller Revenue Contribution Dashboard](https://github.com/MAHFUZATUL-BUSHRA/Cartup_Assessment/blob/main/Dashboard_Images/Question%205_.png)
-
-### Insights
-
 - The **top 20 sellers** generate a major portion of total platform revenue.
 - Sellers such as Shadow Retail and Prime Line Gallery contribute significantly.
 - Revenue distribution follows a **Pareto pattern** where few sellers dominate sales.
