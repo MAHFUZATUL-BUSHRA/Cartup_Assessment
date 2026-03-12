@@ -172,6 +172,7 @@ Hub performance varies significantly.
 # 6️⃣ Product & Seller Commercial Performance
 
 ![Product and Seller Performance Dashboard](https://github.com/MAHFUZATUL-BUSHRA/Cartup_Assessment/blob/main/Dashboard_Images/Question%205.png)
+![Product Seller Revenue Contribution Dashboard](https://github.com/MAHFUZATUL-BUSHRA/Cartup_Assessment/blob/main/Dashboard_Images/Question%205_.png)
 
 ### Key Metrics
 
@@ -181,8 +182,6 @@ Hub performance varies significantly.
 - Total Products: **54K**
 - Top Seller Revenue Share: **20.67%**
 - Top Product RevenueShare: **1.71%**
-
-![Product Seller Revenue Contribution Dashboard](https://github.com/MAHFUZATUL-BUSHRA/Cartup_Assessment/blob/main/Dashboard_Images/Question%205_.png)
 
 ### Insights
 
