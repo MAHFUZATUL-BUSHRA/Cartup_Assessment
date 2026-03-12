@@ -1,13 +1,14 @@
 #  <img src="Images/cartup_bangladesh_logo.jpg" width="40"/> Cartup Business Intelligence Case Study
 ### Business Intelligence Assessment
 
-This project presents a Business Intelligence analysis conducted for Cartup, an e-commerce company that connects customers with sellers while managing warehouse and delivery operations.
+This Case Study presents a Business Intelligence analysis conducted for Cartup, an e-commerce company that connects customers with sellers while managing warehouse and delivery operations.
 
-The objective of this analysis is to explore operational, commercial, and financial data to identify insights that can improve decision-making across different business teams.
+
 
 ---
 
 # Objectives
+The objective of this analysis is to explore operational, commercial, and financial data to identify insights that can improve decision-making across different business teams.
 
 • Analyze seller order processing performance  
 • Identify operational bottlenecks in the order journey  
@@ -271,40 +272,40 @@ You can explore the dashboard using the following files:
 ---
 # Key Recommendations
 
-### Improve Seller Processing Efficiency
+### 1.Improve Seller Processing Efficiency
 ##### Introduce SLA monitoring and operational support for slow-processing sellers.
 * Enforce a 24-hour SLA and monitor compliance via automated alerts and dashboards.
 * Conduct operational audits and training for slow-processing sellers (e.g., Summit Corner House, Silver Base Retail, Global Base Retail).
 * Share best practices from top-performing sellers to improve workflow consistency.
 * Introduce incentives (badges, priority listing, or financial rewards) for consistent SLA adherence.
 
-### Optimize Operational Pipeline
+### 2.Optimize Operational Pipeline
 ##### Address delays in warehouse and sorting stages.
 * Streamline early-stage order processing (Order → Pending → RTS) with automation and real-time readiness notifications.
 * Implement hub-specific operational improvements for high-delay hubs (CB Hub, select 3PL hubs).
 * Use predictive staffing and resource allocation during peak seasons or campaigns to prevent bottlenecks.
 
-### Improve Rider Performance
+### 3.Improve Rider Performance
 ##### Implement route optimization and rider training programs.
 * Balance rider workload distribution to prevent over-reliance on a few top performers.
 * Provide training and route optimization tools for low-performing riders.
 * Monitor KPIs (success rate, failed deliveries, delivery time) and incentivize high performance.
 * Expand local rider fleets in regions with longer delivery times.
   
-### Prepare for Campaign Surges
+### 4.Prepare for Campaign Surges
 ##### Increase operational capacity during promotional campaigns.
 * Focus on high-impact campaigns (e.g., Big November Hunt) with dedicated operational and marketing support.
 * Use predictive analytics to forecast demand and allocate resources efficiently.
 * Balance discount strategy with margin preservation to ensure campaign profitability
 
-### Strengthen Commercial Strategy
+### 5.Strengthen Commercial Strategy
 ##### Focus marketing on top-performing sellers and high-demand products.
 * Reduce dependence on top sellers by onboarding and incentivizing mid-tier sellers.
 * Promote high-revenue categories (Electronics, FMCG) with targeted campaigns and cross-selling strategies.
 * Focus marketing and logistical support on urban hubs with the highest demand and revenue potential.
 * Expand geographic coverage in low-activity regions to capture new markets.
 
-### Reduce Revenue Loss
+### 6.Reduce Revenue Loss
 ##### Improve quality checks and delivery verification processes.
 * Target failed deliveries with address verification, delivery confirmations, and route optimization.
 * Minimize returns in high-loss categories (Fashion, Lifestyle) via improved product listings, sizing guidance, and accurate descriptions.
@@ -317,7 +318,6 @@ You can explore the dashboard using the following files:
 
 # Conclusion
 
-This Business Intelligence analysis demonstrates how operational and transactional data can be leveraged to uncover meaningful insights in an e-commerce business.
 Cartup demonstrates strong commercial and operational performance in core urban markets and high-demand categories. However, operational inefficiencies, uneven seller and rider performance, high returns, and regional logistics challenges reduce profitability and customer satisfaction. Strategic improvements across seller management, last-mile delivery, high-risk products, and campaigns can recover revenue, enhance operational efficiency, and support sustainable platform growth.
 These insights can support Cartup in improving operational performance, enhancing customer satisfaction, and increasing overall profitability.
 
