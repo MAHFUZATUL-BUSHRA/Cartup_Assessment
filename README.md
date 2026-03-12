@@ -149,12 +149,22 @@ Hub performance varies significantly.
 - Avg Orders per Campaign Day: **2523**
 - Avg Orders per Normal Day: **653**
 - Order Increase: **286%**
+- Campaign Revenue Share: **52.2%**
+- Delivery Success Rate (Campaign Days): **93.23%**
+- Delivery Success Rate (Normal Days): **85.90%**
+- Average Rider Delivery Time (Campaign Days): **52.6 hrs**
+- Average Rider Delivery Time (Normal Days): **58.33 hrs**
 
 ### Insights
 
-- Campaigns drive **nearly 4x higher order volume** compared to regular days.
-- Campaign days generate **more than half of total revenue**.
-- Sudden order surges may increase pressure on operations.
+- Campaigns drive **~4x higher order volume** than normal days.
+- Campaign days contribute **>50% of total revenue** despite being only **~20%** of days.
+- Delivery success rate is higher during campaigns **(93.23% vs 85.9%)**, showing effective planning.
+- Average rider delivery time is **~6** hours faster on campaign days.
+- Major campaigns **(e.g., Big November Hunt)** create short-term demand spikes, stressing operations.
+- Higher discounts directly increase order volume, but may reduce margins.
+- Sorting stage shows potential bottlenecks during peak campaign periods.
+- Campaigns increase overall profitability despite heavy discounts **(14.99M vs 13.7M)**.
 
 ---
 
