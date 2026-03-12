@@ -178,13 +178,21 @@ Hub performance varies significantly.
 - Total Profit: **28.69M**
 - Average Order Value: **1.93K**
 - Total Products: **54K**
+- Top Seller Revenue Share: **20.67%**
+- Top Product RevenueShare: **1.71%**
 
 ### Insights
 
-- FMCG and electronics products generate the highest revenue.
-- A small number of products contribute a large share of sales.
-- Certain sellers dominate revenue contribution.
-- 
+- FMCG and Electronics dominate revenue: FMCG drives high order volume; electronics deliver high revenue per order.
+- Revenue concentrated among few sellers: Top sellers contribute >20% of total revenue, highlighting platform dependence.
+- Urban markets lead performance: Dhaka, Gazipur, Chattogram, and Narayanganj generate most revenue.
+- Household essentials drive demand: Top products include oil, milk powder, rice, and detergents.
+- High-cost products yield strong profit: Investment in high-demand categories like FMCG and electronics delivers strong ROI.
+- Product portfolio is large but skewed: 54K products attract diverse customers, but revenue is driven by a small subset.
+- Operational efficiency supports commercial success: High delivery success rates (~90%+) from top sellers reinforce reliable performance.
+- Category-wise strategy matters: FMCG = high volume; Electronics = high value; Fashion & Lifestyle = moderate/niche demand.
+- Investment in high-demand product categories results in strong profit returns.
+  
 ![Product Seller Revenue Contribution Dashboard](https://github.com/MAHFUZATUL-BUSHRA/Cartup_Assessment/blob/main/Dashboard_Images/Question%205_.png)
 
 ### Insights
